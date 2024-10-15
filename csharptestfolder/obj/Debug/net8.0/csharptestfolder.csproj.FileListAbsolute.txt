@@ -1,0 +1,15 @@
+/workspaces/12-10-2024/csharptestfolder/bin/Debug/net8.0/csharptestfolder
+/workspaces/12-10-2024/csharptestfolder/bin/Debug/net8.0/csharptestfolder.deps.json
+/workspaces/12-10-2024/csharptestfolder/bin/Debug/net8.0/csharptestfolder.runtimeconfig.json
+/workspaces/12-10-2024/csharptestfolder/bin/Debug/net8.0/csharptestfolder.dll
+/workspaces/12-10-2024/csharptestfolder/bin/Debug/net8.0/csharptestfolder.pdb
+/workspaces/12-10-2024/csharptestfolder/obj/Debug/net8.0/csharptestfolder.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/12-10-2024/csharptestfolder/obj/Debug/net8.0/csharptestfolder.AssemblyInfoInputs.cache
+/workspaces/12-10-2024/csharptestfolder/obj/Debug/net8.0/csharptestfolder.AssemblyInfo.cs
+/workspaces/12-10-2024/csharptestfolder/obj/Debug/net8.0/csharptestfolder.csproj.CoreCompileInputs.cache
+/workspaces/12-10-2024/csharptestfolder/obj/Debug/net8.0/csharptestfolder.sourcelink.json
+/workspaces/12-10-2024/csharptestfolder/obj/Debug/net8.0/csharptestfolder.dll
+/workspaces/12-10-2024/csharptestfolder/obj/Debug/net8.0/refint/csharptestfolder.dll
+/workspaces/12-10-2024/csharptestfolder/obj/Debug/net8.0/csharptestfolder.pdb
+/workspaces/12-10-2024/csharptestfolder/obj/Debug/net8.0/csharptestfolder.genruntimeconfig.cache
+/workspaces/12-10-2024/csharptestfolder/obj/Debug/net8.0/ref/csharptestfolder.dll
